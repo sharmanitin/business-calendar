@@ -1,5 +1,5 @@
 ---
 layout: index
 ---
-{% include README.md %}
+{% include_relative README.md %}
 
