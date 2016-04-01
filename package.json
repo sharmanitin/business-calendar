@@ -2,7 +2,7 @@
   "name": "business-calendar",
   "version": "1.0.2",
   "description": "Up-to-date business calendar",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.0",
