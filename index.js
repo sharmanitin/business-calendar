@@ -1,5 +1,12 @@
 var path = require('path');
 
+exports.getDataRoot = getDataRoot;
+exports.getCalendar = getCalendar;
+
+function getDataRoot() {
+	return path.resolve(path.join(__dirname, 'data'))
+}
+
 function getCalendar(country, year) {
     var calendar = getFullPath(country, year);
 
@@ -7,7 +14,7 @@ function getCalendar(country, year) {
 }
 
 function getPath(country) {
-    return path.join(__dirname, 'data', country);
+    return path.join(getDataRoot(), 'data', country);
 }
 
 function getFile(path, year) {
@@ -17,5 +24,3 @@ function getFile(path, year) {
 function getFullPath(country, year) {
     return getFile(getPath(country), year);
 }
-
-exports.getCalendar = getCalendar;
