@@ -10,12 +10,6 @@
 			"limited_financial_operation": true
 		},
 		{
-			"date": "2018-01-25",
-			"description": "Aniversário de São Paulo",
-			"holiday": true,
-			"limited_financial_operation": true
-		},
-		{
 			"date": "2018-02-12",
 			"description": "Carnaval",
 			"holiday": true,
