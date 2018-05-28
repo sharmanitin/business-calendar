@@ -49,7 +49,7 @@
 			"date": "2018-07-09",
 			"description": "Revolução Constitucionalista",
 			"holiday": true,
-			"limited_financial_operation": true
+			"limited_financial_operation": false
 		},
 		{
 			"date": "2018-09-07",
