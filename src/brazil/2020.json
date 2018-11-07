@@ -10,12 +10,6 @@
 			"limited_financial_operation": true
 		},
 		{
-			"date": "2020-01-25",
-			"description": "Aniversário de São Paulo",
-			"holiday": true,
-			"limited_financial_operation": true
-		},
-		{
 			"date": "2020-02-24",
 			"description": "Carnaval",
 			"holiday": true,
@@ -52,12 +46,6 @@
 			"limited_financial_operation": true
 		},
 		{
-			"date": "2020-07-09",
-			"description": "Revolução Constitucionalista",
-			"holiday": true,
-			"limited_financial_operation": true
-		},
-		{
 			"date": "2020-09-07",
 			"description": "Independência do Brasil",
 			"holiday": true,
@@ -78,12 +66,6 @@
 		{
 			"date": "2020-11-15",
 			"description": "Proclamação da República",
-			"holiday": true,
-			"limited_financial_operation": true
-		},
-		{
-			"date": "2020-11-20",
-			"description": "Consciência Negra",
 			"holiday": true,
 			"limited_financial_operation": true
 		},
