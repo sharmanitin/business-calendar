@@ -1,0 +1,86 @@
+{
+	"year": 2022,
+	"country": "brazil",
+	"timezone": "America/Sao_Paulo",
+	"calendar": [
+		{
+			"date": "2022-01-01",
+			"description": "Confraternização Universal",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-02-28",
+			"description": "Carnaval",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-03-01",
+			"description": "Carnaval",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-04-15",
+			"description": "Paixão de Cristo",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-04-21",
+			"description": "Tiradentes",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-05-01",
+			"description": "Dia do Trabalho",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-06-16",
+			"description": "Corpus Christi",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-09-07",
+			"description": "Independência do Brasil",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-10-12",
+			"description": "Nossa Sr.a Aparecida - Padroeira do Brasil",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-11-02",
+			"description": "Finados",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-11-15",
+			"description": "Proclamação da República",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-12-25",
+			"description": "Natal",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2022-12-31",
+			"description": "Fechamento de Balanço dos Bancos",
+			"holiday": true,
+			"limited_financial_operation": true
+		}
+	]
+}
+
